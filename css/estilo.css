@@ -27,13 +27,13 @@
     background-color: rgba(0, 0, 0, 0.4);
     width: 100%;
     height: 100%;
-    opacity: 0;
+    opacity: 1;
     transition: opacity 1s;
     text-shadow: 2px 2px 4px black;
 }
 
 .textofoto:hover{
-	opacity: 1;
+	opacity: 0;
 }
 
 #subirTopo {
